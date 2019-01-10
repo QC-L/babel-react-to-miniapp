@@ -1,0 +1,27 @@
+{
+  "name": "babel-react-to-miniapp",
+  "version": "1.0.0",
+  "description": "React 转为 小程序代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QC-L/babel-react-to-miniapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QC-L/babel-react-to-miniapp/issues"
+  },
+  "homepage": "https://github.com/QC-L/babel-react-to-miniapp#readme",
+  "dependencies": {
+    "react": "^16.7.0"
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.2.3",
+    "@babel/traverse": "^7.2.3",
+    "@babel/types": "^7.2.2"
+  }
+}
